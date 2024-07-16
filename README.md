@@ -1,4 +1,4 @@
-# VOVO APP#
+# VOVO APP
 
 # Sobre o projeto
 
