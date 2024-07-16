@@ -12,6 +12,10 @@ possuem mesmos gostos, trabalhos e passatempos.
 Além disso a rede conta com design propriamente feito a partir das dificuldades dos idosos, tendo aumento de tamanho nos elementos da rede,
 e contendo uma aba de ajuda para aqueles que não entenderem logo de primeira.
 
+# Mídias
+
+<img src= "1.png">
+
 # Tecnologias utilizadas
 ## Mockups
 - Canva
