@@ -15,6 +15,9 @@ e contendo uma aba de ajuda para aqueles que não entenderem logo de primeira.
 # Mídias
 
 <img src= "1.png">
+<img src= "2.png">
+<img src= "3.png">
+<img src= "4.png">
 
 # Tecnologias utilizadas
 ## Mockups
