@@ -16,7 +16,7 @@ e contendo uma aba de ajuda para aqueles que não entenderem logo de primeira.
 ## Mockups
 - Canva
 
-##Estrutura de métodos
+## Estrutura de métodos
 - Cadastrar
 - Logar
 - Postar mensagem
